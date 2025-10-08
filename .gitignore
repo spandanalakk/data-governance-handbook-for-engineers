@@ -1,0 +1,17 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.DS_Store
+
+# Notebooks & temp
+.ipynb_checkpoints/
+*.ipynb
+tmp/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local diagrams
+assets/*.drawio
